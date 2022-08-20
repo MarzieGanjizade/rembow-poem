@@ -5,6 +5,7 @@ Pink
 Orange
 Blue
 Green
+recycle!
 Yellow
 Red
 These are the colors of the rainbow.
